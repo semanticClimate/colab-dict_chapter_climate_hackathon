@@ -4,8 +4,11 @@ CoLab Notebook:
 
 License: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
 
-License see: LICENSE.txt
+License information: LICENSE.txt
 
-Citation file format:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10817162.svg)](https://doi.org/10.5281/zenodo.10817162)
 
-About Citation file format:  https://citation-file-format.github.io/
+
+Edit Citation File Format: CITATION.cff
+
+About Citation file format: https://citation-file-format.github.io/
