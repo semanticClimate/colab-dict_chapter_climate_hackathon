@@ -1,3 +1,3 @@
-# Colab docanalysis py4ami pygetpapers
+# Colab dict chapter climate hackathon
 
-CoLab Notebook: docanalysis, py4ami, and pygetpapers
+CoLab Notebook:  
