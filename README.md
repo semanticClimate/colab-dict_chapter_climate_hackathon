@@ -11,4 +11,4 @@ License information: LICENSE.txt
 
 Edit Citation File Format: CITATION.cff
 
-About Citation file format: https://citation-file-format.github.io/
+About Citation File Format: https://citation-file-format.github.io/
