@@ -4,6 +4,8 @@ authors:
 - family-names: "Hegde"
   given-names: "Shweata"
   orcid: "https://orcid.org/0000-0002-8258-274X"
+- family-names: "Singha"
+  given-names: "Ananya"
 title: "Colab dict chapter climate hackathon"
 version: 0.0.1
 doi: 10.5281/zenodo.10817161
